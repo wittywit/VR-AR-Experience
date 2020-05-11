@@ -1,5 +1,5 @@
 # Awesome VR
-A curated list of articles, videos, and more on VR for developers/designers. Updated every weekend!!!
+A curated list of articles, videos, and more on VR .
 
 - [Awesome VR](#awesome-vr)
 	- [AR](#ar)
