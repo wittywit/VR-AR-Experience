@@ -166,11 +166,12 @@ Vergence–accommodation conflicts hinder visual performance and cause visual fa
 Virtual Microscopy UI: Speculative Brainstorm and Prototype - [link](http://www.microscopy-uk.org.uk/mag/indexmag.html?http://www.microscopy-uk.org.uk/mag/artmay16/js-photomicro-VR.html)
 
 ## Psychology
-Virtual gateways and event boundaries - ([link](http://www.vrinflux.com/virtual-gateways-and-event-boundaries/), [notes](https://github.com/thejourneydude/awesome_vr/blob/master/notes/Virtual%20Gateways%20and%20Event%20Boundaries.md))
+Virtual gateways and event boundaries - ([link](http://www.vrinflux.com/virtual-gateways-and-event-boundaries/), 
+[notes](https://github.com/thejourneydude/awesome_vr/blob/master/notes/Virtual%20Gateways%20and%20Event%20Boundaries.md))
 
 ## Keynotes
 
-Oculus Connect 2 Livestream - [link](http://www.twitch.tv/oculus/v/17538854) (starts at 00:33:15)
+Evolve 2018: AR, VR, & the Future of Work - [link](https://www.youtube.com/watch?v=JFPB6q5mPqo) 
 
 ## Tech
 
@@ -190,6 +191,10 @@ Adobe After Effects (prototyping) - [link](http://www.adobe.com/products/afteref
 
 Wwise (audio) - [link](https://www.audiokinetic.com/products/wwise/)
 
+Artivive (Image marker based AR) - [link](https://artivive.com/)
+
+Mozilla WebVR starter Kit - [link](https://research.mozilla.org/mixed-reality/)
+
 ## Tutorials
 
 DevUp: "VR Guitar" Development Updates - [link](https://www.youtube.com/playlist?list=PLmUZ4l5SqKXxVdI8GNld1-YZRClvu-ljw)
@@ -202,6 +207,4 @@ Principles of VR with Unity Examples - [link](https://www.youtube.com/watch?v=fy
 Conducting User Tests With an Oculus Rift - [link](https://www.twentymilliseconds.com/post/user-testing-oculus-rift/)
 
 
-# License
-This work is licensed under a Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License (http://creativecommons.org/licenses/by-nc-nd/4.0/).
 
